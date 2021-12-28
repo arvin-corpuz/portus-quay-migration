@@ -1,0 +1,10 @@
+[default]
+portus_url = 
+portus_api_auth_user = 
+portus_api_auth_token = 
+quay_url = 
+quay_api_oauth2_token = 
+portus_docker_user = 
+portus_docker_user_password = 
+quay_docker_user = 
+quay_docker_user_password = 
